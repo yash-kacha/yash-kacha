@@ -12,10 +12,12 @@
 - 🚀 Always excited to collaborate and learn from the developer community.
 
 ## Let's Connect
-- 📫 Feel free to reach out to me via [yashkacha2705@gmail.com](#)
+- 📫 Feel free to reach out to me via [yashkacha2705@gmail.com](#) or on [LinkedIn][1.1].
 - 🤝 Open to working on collaborative Java and Spring projects!  
 
 ## Fun Fact
 - 🏆 Chess has been a big influence on me, teaching me strategy and patience, which I apply in both life and coding.  
 
 Thanks for visiting my profile!  
+
+[1.1]: www.linkedin.com/in/yash-kacha-96821b2bb
