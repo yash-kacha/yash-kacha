@@ -12,7 +12,7 @@
 - 🚀 Always excited to collaborate and learn from the developer community.
 
 ## Let's Connect
-- 📫 Feel free to reach out to me via [yashkacha2705@gmail.com](#) or on [LinkedIn][1.1].
+- 📫 Feel free to reach out to me via [yashkacha2705@gmail.com](#) or on <a href="https://www.linkedin.com/in/yash-kacha-96821b2bb" target="_blank">LinkedIn</a>.
 - 🤝 Open to working on collaborative Java and Spring projects!  
 
 ## Fun Fact
